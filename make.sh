@@ -1,2 +1,2 @@
 #!/bin/sh
-gcc -Wall mm2oot.c -o mm2oot
+gcc -Wall main.c -o mm2oot
