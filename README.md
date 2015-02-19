@@ -16,7 +16,7 @@ The output model must be .cmb or else N3dSCmbViewer will not recognize it.
 Then open the file in [N3DSCmbViewer](http://magicstone.de/dzd/random/3ds/N3DSCmbViewer_test9.rar)!
 
 ## Credits
-twili - reverse engineered file format
+twili - reverse engineered file format and programmer
 
 aksa, ZoraEggs - quality assurance
 
